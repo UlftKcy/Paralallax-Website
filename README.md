@@ -9,7 +9,7 @@ Project aims to create parallax website.
 
 ## Notes
 
-- You can use HTML,and CSS to complete this project.
+- You can use HTML and CSS to complete this project.
 
 ## Happy coding!
 
